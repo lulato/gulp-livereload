@@ -71,6 +71,9 @@ gulp.task('watch', function() {
 });
 ```
 
+On the chrome extension make sure you check the checkbox "Allow access to file URLs"
+
+
 **See [examples](examples)**.
 
 API & Variables
